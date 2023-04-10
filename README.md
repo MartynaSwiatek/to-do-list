@@ -1,5 +1,5 @@
 # To-do List
-![background]
+![background](https://github.com/MartynaSwiatek/to-do-list/blob/main/images/background.jpg?raw=true)
 
  ## Demo https://martynaswiatek.github.io/to-do-list
  
