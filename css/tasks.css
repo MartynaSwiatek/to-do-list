@@ -10,7 +10,7 @@
     grid-gap: 10px;
     align-items: center;
     padding: 10px;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid hsl(0, 0%, 87%);
 }
 
 .tasks__content--done {
@@ -19,7 +19,7 @@
 
 .tasks__button {
     border: none;
-    color: white;
+    color: hsl(0, 0%, 100%);
     width: 30px;
     height: 30px;
     padding: 0;
